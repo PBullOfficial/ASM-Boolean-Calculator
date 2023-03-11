@@ -1,4 +1,4 @@
-; // Peter Bulloch's Project 6 for CSCI321_VA!
+; // Peter Bulloch's Project 5 for CSCI321_VA!
 ; // This program functions as a simple 
 ; // Boolean calculator for 32-bit integers
 
